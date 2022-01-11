@@ -159,7 +159,7 @@ https://www.reshiftsecurity.com/javascript-security/
 https://dev.to/acaverna/fazendo-uma-todo-list-com-vuejs-55p1 
 
 # REACT
-Faça gráficos animados e vídeos utilizando React
+### ✔️ Faça gráficos animados e vídeos utilizando React
 https://www.remotion.dev 
 
 # FRONTEND
