@@ -3,7 +3,8 @@
 Coisas muito interessantes de programação que achei por aí!
 
 # HTML
-Roadmap para estudar HTML
+
+### ✔️ Roadmap para estudar HTML
 https://twitter.com/_georgemoller/status/1400488849420308485 
 
 ### ✔️ Veja como seus inputs se comportam em mobile
